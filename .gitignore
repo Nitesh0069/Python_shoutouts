@@ -1,0 +1,5 @@
+# Ignore all desktop.ini files
+**/desktop.ini
+
+# Ignore all .vscode folders
+**/.vscode/
